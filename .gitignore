@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__/
+
+# Database dumps & exports
+*.dump
+*.bak
+*.bak2
+
+# MySQL Workbench
+*.mwb
+*.mwb.bak
+
+# DBeaver workspace
+.dbeaver/
+
+# IDE / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment / secrets — never commit credentials!
+.env
+*.env
+config.ini
+secrets.yml
